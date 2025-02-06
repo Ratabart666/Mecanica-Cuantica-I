@@ -1,0 +1,14 @@
+*.bib
+*.bbl
+*.log
+*.aux
+*.log
+*.blg
+*.out
+*.gz
+*.tex
+physics.png
+uniandes.png
+*pictures
+*Plantilla
+*/code/main.pdf
